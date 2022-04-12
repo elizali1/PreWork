@@ -1,0 +1,57 @@
+body{
+    background: linear-gradient(35deg,#CCFFFF, #FFCCCC);
+}
+h2{
+    color: rosybrown;
+    font-family: cursive;
+}
+h3{
+    color:rosybrown;
+    font-family: fantasy;
+}
+p{
+    color:rosybrown;
+    font-family: fantasy;
+}
+form{
+    color:rosybrown;
+}
+h2{
+    color: rosybrown;
+    font-family: cursive;
+}
+p{
+    color:rosybrown;
+}
+table{
+    color:rosybrown;
+}
+.newthing{
+    color:rosybrown;
+    font-style: italic;
+}
+ul{
+    color:rosybrown
+}
+#div1{
+    position: relative;
+}
+#div2{
+    position:static;
+}
+#div{
+    position:absolute;
+}
+form{
+    padding: 1px;
+    background-color:mistyrose;
+    font-family: fantasy;
+    border-style:none;
+}
+input[type=button] {
+color:rosybrown;
+padding: 10px;
+}
+a{
+    font-weight: bold;
+}
